@@ -15,6 +15,7 @@ Avid learner, I take learning as a hobby.
 ⚡Quick facts:
 
 💻 I’m currently working on Alterdata Software
+
 📚 I’m currently studying NodeJs\ReactJs\ReactNative\C++\Cloud Computing
 
 📫 How to reach me: 
