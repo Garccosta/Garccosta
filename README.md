@@ -1,21 +1,20 @@
-###  👋 Hello World!🌎
+###  👋 Hello World! 🌎
 
-My name is Gabriel, I was born in Rio de Janeiro and 
-I am currently living in Teresopolis.
+My name is Gabriel, from Rio de Janeiro. ⛱
 
 I am just a simple guy, passionate about technology, nature 
 and spirituality.<br>
-I think one of my biggest traits is my curiosity.<br> 
+I think one of my biggest traits is my curiosity 💡.<br> 
 
 <br>
 
-🎁Life long dreams:
-- Freedom(in all its aspects: financial, geographical, of choice, and ultimately from ego...);
+📌 Life long goals:
+- Freedom(in all its aspects: financial, geographical, of choice, and ultimately from ego 😅...);
 - Have a positive impact on people´s lives.
 
 <br>
 
-⚡Quick facts:
+⚡ Quick facts:
 
 💻 I’m currently working on Alterdata Software
 
