@@ -9,7 +9,7 @@ I think one of my biggest traits is my curiosity 💡.<br>
 <br>
 
 📌 Life long goals:
-- Freedom(in all its aspects: financial, geographical, of choice, and ultimately from ego 😅...);
+- Freedom(in all its aspects: financial, geographical, and ultimately from ego 😅...);
 - Have a positive impact on people´s lives.
 
 <br>
