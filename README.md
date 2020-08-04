@@ -8,9 +8,13 @@ and spirituality.
 I think one of my biggest traits is my curiosity. 
 Avid learner, I take learning as a hobby.
 
+<br>
+
 🎁Life long dreams:
 - Freedom(in all its aspects: financial, geographical, of choice, and ultimately from ego...);
 - Have a positive impact on people´s lives.
+
+<br>
 
 ⚡Quick facts:
 
@@ -18,10 +22,13 @@ Avid learner, I take learning as a hobby.
 
 📚 I’m currently studying NodeJs\ReactJs\ReactNative\C++\Cloud Computing
 
+<br>
 
 📫 How to reach me: 
-linkedin - https://www.linkedin.com/in/garccosta/
-email - garccosta@gmail.com
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garccosta)](https://www.linkedin.com/in/garccosta)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garccosta@gmail.com)](mailto:garccosta@gmail.com)
+
 
 <!--
 **Garccosta/Garccosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
