@@ -19,7 +19,7 @@ I think one of my biggest traits is my curiosity.<br>
 
 💻 I’m currently working on Alterdata Software
 
-📚 I’m currently studying: NodeJs | ReactJs | ReactNative | C++ | Cloud Computing
+📚 I’m currently studying: NodeJs | ReactJs | ReactNative | C# | Cloud Computing
 
 <br>
 
