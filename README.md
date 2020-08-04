@@ -21,7 +21,7 @@ Avid learner, I take learning as a hobby.
 
 📫 How to reach me: 
 linkedin - https://www.linkedin.com/in/garccosta/
-email - garccosta@gamil.com
+email - garccosta@gmail.com
 
 <!--
 **Garccosta/Garccosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
