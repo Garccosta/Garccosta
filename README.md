@@ -6,7 +6,7 @@ I am currently living in Teresopolis.
 I am just a simple guy, passionate about technology, nature 
 and spirituality. 
 I think one of my biggest traits is my curiosity. 
-Avid learner, I take learning as a hobby.
+As an avid learner, for me learning is almost a sort of hobby.
 
 <br>
 
