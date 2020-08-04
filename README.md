@@ -4,9 +4,9 @@ My name is Gabriel, I was born in Rio de Janeiro and
 I am currently living in Teresopolis.
 
 I am just a simple guy, passionate about technology, nature 
-and spirituality. 
-I think one of my biggest traits is my curiosity. 
-As an avid learner, for me learning is almost a sort of hobby.
+and spirituality.<br>
+I think one of my biggest traits is my curiosity.<br> 
+As an avid learner, for me learning is a sort of hobby.
 
 <br>
 
