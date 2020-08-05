@@ -1,6 +1,6 @@
 ###  👋 Hello World! 🌎
 
-My name is Gabriel, from Rio de Janeiro. ⛱
+My name is Gabriel, I´m from Rio de Janeiro. ⛱
 
 I am just a simple guy, passionate about technology, nature 
 and spirituality.<br>
