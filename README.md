@@ -4,12 +4,12 @@ My name is Gabriel, I´m from Rio de Janeiro. ⛱
 
 I am just a simple guy, passionate about technology, nature 
 and spirituality.<br>
-I think one of my biggest traits is my curiosity 💡.<br> 
+I think one of my biggest traits is my curiosity. 💡<br> 
 
 <br>
 
 📌 Life long goals:
-- Freedom(in all its aspects: financial, geographical, and ultimately from ego 😅...);
+- Freedom(in all its aspects: financial, geographical, and ultimately from ego 😅);
 - Have a positive impact on people´s lives.
 
 <br>
