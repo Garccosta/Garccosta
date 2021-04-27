@@ -18,7 +18,7 @@ I think one of my biggest traits is my curiosity. 💡<br>
 
 💻 I’m currently working on StormGroup as a Full Stack Developer
 
-📚 I’m currently studying: AWS Services | NodeJs | ReactJs | C# | .Net | Unit Testing | Docker |
+📚 I’m currently studying: AWS Services | MongoDB | NodeJs | ReactJs | C# | .Net | Unit Testing | Docker |
 
 <br>
 
