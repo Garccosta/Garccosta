@@ -16,9 +16,9 @@ I think one of my biggest traits is my curiosity. 💡<br>
 
 ⚡ Quick facts:
 
-💻 I’m currently working on Alterdata Software
+💻 I’m currently working on StormGroup as a Full Stack Developer
 
-📚 I’m currently studying: NodeJs | ReactJs | VueJs | C# | .Net | Cloud Computing | Unit Testing | Docker | Jenkins | Linux | 
+📚 I’m currently studying: AWS Services | NodeJs | ReactJs | C# | .Net | Unit Testing | Docker |
 
 <br>
 
