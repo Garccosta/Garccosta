@@ -16,9 +16,9 @@ I think one of my biggest traits is my curiosity. 💡<br>
 
 ⚡ Quick facts:
 
-💻 I’m currently working at Nursa as a Full Stack Developer
+💻 I’m currently working at KaiserX as a Full Stack Developer
 
-📚 I’m currently studying: AWS/GCP Services | NodeJs | AngularJs | Unit Testing
+📚 I’m currently studying: AngularJs | IA | Software Architecture
 
 <br>
 
