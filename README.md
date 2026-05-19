@@ -18,7 +18,7 @@ I think one of my biggest traits is my curiosity. 💡<br>
 
 💻 I’m currently working at KaiserX as a Full Stack Developer
 
-📚 I’m currently studying: AngularJs | IA | Software Architecture
+📚 I’m currently studying: AngularJs | AI | Software Architecture
 
 <br>
 
